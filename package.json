@@ -1,0 +1,17 @@
+{
+  "name": "storybook-context",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "vojtech@miksu.com",
+  "license": "MIT",
+  "scripts": {
+    "storybook": "start-storybook"
+  },
+  "dependencies": {
+    "@babel/core": "^7.9.0",
+    "@storybook/react": "^5.3.18",
+    "babel-loader": "^8.1.0",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
